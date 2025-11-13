@@ -11,3 +11,9 @@ console.log(button2)
 
 const button3 = "Added a paymet1";
 console.log(button3)
+
+const button5 = "Added a paymet1";
+console.log(button3)
+
+const button6 = "Added a paymet1";
+console.log(button3)
