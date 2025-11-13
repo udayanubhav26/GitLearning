@@ -17,3 +17,5 @@ console.log(button3)
 
 const button6 = "Added a paymet1";
 console.log(button3)
+
+console.log("bugfix")
